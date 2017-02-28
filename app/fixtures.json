@@ -1,0 +1,11 @@
+{
+ "jornada" : "1",
+ "encuentro" : [
+    {
+      "team1" : "Granada",
+      "team2" : "Betis",
+      "date"  : "2014-9-13",
+      "result" : "2-0"
+    }
+   ]
+}
